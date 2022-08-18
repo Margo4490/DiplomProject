@@ -23,12 +23,3 @@
 
 Всего не успешных тест-кейсов: MySQL - 35.42%; Postgresql - 46%
 
-## 4. общие рекомендации
-
-Устранить дефекты обнаруженные на этапе тестирования https://github.com/Margo4490/DiplomProject/issues
-
-## 5. AllureReport
-
-![](../../../YandexDisk/Скриншоты/Allure Report —mysql overview.png)
-
-![](../../../YandexDisk/Скриншоты/Allure Report — Postgresql overview.png)
